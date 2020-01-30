@@ -13,3 +13,6 @@ scrapyd
 scrapyd-client
 scrapy-redis
 scrapy-splash
+elasticsearch
+psycopg2-binary
+pyppeteer
